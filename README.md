@@ -4,7 +4,7 @@
 
 # What it is 
 
-> See the [Quick start](quickstart.md) guide for more details.
+> See the [Quick start](_pages/quickstart.md) guide for more details.
 
 # Features
 
