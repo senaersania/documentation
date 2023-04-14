@@ -2,7 +2,7 @@
 
 It is recommended to clone latest source code from `https://icode.pinjamyuk.co.id/` which helps initializing and read the latest source code. 
 
-Pinjamyuk icode visibility is private project, make sure you have permission to pinjamyuk icode. :100:
+Pinjamyuk icode visibility is private project, make sure you have permission to pinjamyuk icode.
 
 ```terminal
 git clone https://icode.pinjamyuk.co.id/idn/idn_pdl.git
